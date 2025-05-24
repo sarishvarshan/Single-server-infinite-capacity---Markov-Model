@@ -1,4 +1,4 @@
-EX NO : 4
+# EX NO : 4
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ```
 Developed by : SARISH VARSHAN V
